@@ -19,7 +19,7 @@ namespace ConsoleApplication3
 
                 if (a <= b)
                 {
-                    Console.WriteLine($"{a}는 {b}보다 작습니다.");
+                    Console.WriteLine($"{a}는 {b}보다 작 .");
                 }
 
                 else if (a > b)
