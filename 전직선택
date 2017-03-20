@@ -18,8 +18,8 @@ namespace WindowsFormsApplication5
         }
 
         private void button1_Click(object sender, EventArgs e)
-        {            
-            MessageBox.Show("전사가 선택되었습니다.");         
+        {
+            MessageBox.Show("전사가 선택되었습니다."); //button1 클릭 시 메세지 창이 뜸
         }
 
         private void button2_Click(object sender, EventArgs e)
